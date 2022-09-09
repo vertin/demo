@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Check24</string>
+
+    <string name="price_title">Preis: %1$s %2$s</string>
+    <string name="favorite_button_title">Vormerken</string>
+    <string name="short_description_title">Description</string>
+    <string name="long_description_title">Long description</string>
+
+    <string name="legal_info">„© 2016 Check24“</string>
+</resources>
